@@ -1,3 +1,5 @@
+> Disclaimer: None of this has been written by AI. Some code snippets and processes have been obtained using AI tools, but this documentation is made 100% by a human. So, hello there :)
+
 # Scenario
 
 * **Victim:** Windows Laptop
